@@ -15,6 +15,7 @@ const t = useTranslate({
     defaultTip: '默认提示',
     customTip: '自定义提示',
     loadFail: '加载失败',
+    test: '测试',
   },
   'en-US': {
     fitMode: 'Fit Mode',
